@@ -7,7 +7,7 @@
 +   Integer stock
 
 
-## Add Endpoint: 
+## Add Endpoint 
 `https://paruiz-cst4398-backend.herokuapp.com/products/add`
 Receives a POST request. In the "Request Body" is a JSON object of type _Product_ (minus a product ID, this will be randomly generated). This gets saved to the database.
 
@@ -22,7 +22,7 @@ Example json:
 ```
 
 
-## Get enpoint :
+## Get enpoint
 `https://paruiz-cst4398-backend.herokuapp.com/products/get/{id}`
 Receives a GET request. Returns a single product object, matching the ID supplied in the path.
 
