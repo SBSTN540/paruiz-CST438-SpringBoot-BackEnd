@@ -20,7 +20,7 @@ Example json:
     "stock": 20
 }
 ```
-[add]:https://i.ibb.co/8mvtRyF/add.png
+![add](https://i.ibb.co/8mvtRyF/add.png)
 
 
 ## Get enpoint :
@@ -40,7 +40,7 @@ Example json :
     "stock": 20
 }
 ```
-[get]:https://i.ibb.co/7gTbTgQ/get1.png
+![get](https://i.ibb.co/7gTbTgQ/get1.png)
 
 
 
@@ -68,4 +68,4 @@ Example json :
 	},
 ]
 ```
-[getall]:https://i.ibb.co/7WD8JrX/getall.png
+![getall](https://i.ibb.co/7WD8JrX/getall.png)
