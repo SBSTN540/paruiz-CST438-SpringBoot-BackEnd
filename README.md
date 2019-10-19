@@ -43,7 +43,7 @@ Example json :
 
 
 ## Get All enpoint 
-`https://paruiz-cst4398-backend.herokuapp.com/products/get/2
+`https://paruiz-cst4398-backend.herokuapp.com/products/getAll
 `
 Receives a GET request. Returns an array of all the products
 
