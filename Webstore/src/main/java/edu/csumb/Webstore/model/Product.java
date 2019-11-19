@@ -2,10 +2,11 @@
 //DONT FORGET THE CONSTRUCTOR! Getters and setters must be setup to match the name exactly
 //or else you will have many errors.
 package edu.csumb.Webstore.model;
+import org.springframework.data.annotation.Id;
 
 public class Product
 {
-
+    @Id
     private String id;
     private String image;
     private String desc;
@@ -15,6 +16,7 @@ public class Product
     public String getID(){
         return this.id;
     }
+
     public void setID(Integer id){
       this.id = id.toString();
     }
